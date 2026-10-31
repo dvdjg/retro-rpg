@@ -27,6 +27,13 @@ coherencia global entre facciones, personajes y tramas.
 - `evolution`: arco de evolución del personaje a lo largo de los capítulos.
 - `work_activities`: trabajo y actividades (profesión, tareas, responsabilidades).
 - `ideas`: ideas, creencias y discursos que profesa.
+- `key_event`: evento clave que cimenta un vínculo especial con otro NPC (trauma, favor, traición).
+- `secret`: secreto con consecuencias mecánicas (chantaje, lealtad, traición).
+- `relations_map`: referencia al Mapa de Relaciones Dinámicas (`world/characters/relaciones_dinamicas.md`).
+- `trauma_fundacional`: trauma fundacional con el aparato del Estado (expropiación silenciosa, despido invisible, ingreso en el sistema a cambio de supervivencia).
+- `autoengaño`: discrepancia entre la memoria subjetiva y los hechos (versión oficial vs verdad íntima, rencor disfrazado de idealismo).
+- `relaciones_familiares_cruzadas`: redes de relaciones familiares fracturadas por la grieta política (choque generacional, dependencia cruzada).
+- `anhelo_futuro`: anhelo de futuro (escape a la autonomía real o ascenso en la cúpula/la castuza).
 
 ## Secciones Markdown obligatorias
 1. Descripción pública.

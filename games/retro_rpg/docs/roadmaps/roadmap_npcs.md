@@ -25,3 +25,5 @@ evolución, ideas, trabajo/actividades, memoria subjetiva y verdad objetiva en l
 ## Convención
 Cada NPC debe seguir `templates/template_npc.md` y `docs/decisions/convencion_npcs.md`.
 Incluir memoria subjetiva + verdad objetiva en línea temporal.
+Incluir vínculo especial (evento clave) y al menos un secreto con consecuencias mecánicas.
+Actualizar el Mapa de Relaciones Dinámicas (`world/characters/relaciones_dinamicas.md`) por capítulo.
