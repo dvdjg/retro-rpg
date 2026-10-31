@@ -6,6 +6,12 @@ social_class: "Población Cautiva / Élite / Autónomo Independiente"
 ideology: "Woke-Estatista / Colaborador pragmático / Disidente / etc."
 public_role: "Cargo oficial o profesión visible"
 hidden_agenda: "Motivaciones reales y anhelos de futuro"
+objective_history:
+  - event_id: "evt_001"
+    real_truth: "Lo que ocurrió de verdad (ver timeline_eventos.md)"
+evolution: "Arco de evolución a lo largo de los capítulos"
+work_activities: "Trabajo y actividades (profesión, tareas, responsabilidades)"
+ideas: "Ideas, creencias y discursos que profesa"
 subjective_memory:
   past_events:
     - event_id: "evt_001"
@@ -30,5 +36,7 @@ city_builder_impact:
 ## Historia subjetiva
 
 ## Relaciones
+
+## Verdad objetiva (línea temporal)
 
 ## Impacto en la simulación (city-builder)

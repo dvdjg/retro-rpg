@@ -75,6 +75,7 @@ Si una trama pasa de borrador a consolidada, mover el archivo y actualizar refer
    basta para movimiento.
 7. No commitear cambios salvo que el usuario lo pida explícitamente.
 8. Mantener respuestas concisas; no añadir comentarios al código salvo que se pidan.
+9. Al crear NPCs, seguir `docs/decisions/convencion_npcs.md` y `templates/template_npc.md`: memoria subjetiva + verdad objetiva en `world/history_timeline/timeline_eventos.md`.
 
 ## Herramientas
 
