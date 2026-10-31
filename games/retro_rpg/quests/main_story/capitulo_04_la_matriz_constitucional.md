@@ -27,8 +27,10 @@ de reformas constitucionales que blindan definitivamente los privilegios y el af
 ## Objetivos
 1. Redactar las reformas constitucionales.
 2. Descubrir el secreto fundacional del régimen.
-3. Enfrentarse al dilema final: hundir el sistema o perpetuarlo.
-4. Gestionar las consecuencias de la población cautiva.
+3. Descubrir que la Constitución es un documento putrefacto (largo, difuso, contradictorio, estratos, sin mecanismos de defensa del ciudadano, poderes ilimitados).
+4. Contrastar con la Carta Magna Auténtica (americana): pequeña, clara, igualdad, jueces de pueblo, separación de poderes.
+5. Enfrentarse al dilema final: hundir el sistema o perpetuarlo.
+6. Gestionar las consecuencias de la población cautiva.
 
 ## Pasos / Flujo
 - Pista A: archivos del fundador del régimen.
@@ -40,6 +42,14 @@ de reformas constitucionales que blindan definitivamente los privilegios y el af
 - Si perpetúa: gana poder máximo, pero el sistema se pudre.
 - Si hunde: colapsa el sistema, pero la población cautiva se vuelve contra él.
 - Final abierto: reforma desde dentro (casi imposible) o destrucción.
+
+## Giro Final (El Despertar del Arquitecto)
+Durante el Capítulo III, cuando el avatar alcanza la cúspide del poder y se dispone a redactar
+una gran reforma constitucional para "salvar el sistema", comprende finalmente la verdad que su
+mentor intentó transmitirle antes de ser silenciado: la Constitución no es una carta de derechos
+para proteger al ciudadano del Estado, sino el manual de instrucciones que explica cómo el Estado
+se protege del ciudadano. Está redactada con malicia deliberada para que la corrupción no sea un
+fallo del sistema, sino el sistema en sí mismo.
 
 ## Notas de diseño
 Clímax moral: el jugador debe elegir entre poder y verdad.
