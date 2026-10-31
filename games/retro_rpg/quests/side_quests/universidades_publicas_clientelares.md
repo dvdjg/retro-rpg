@@ -31,6 +31,9 @@ donarlos al "desarrollo". Un mismo profesor concentra todas las responsabilidade
 examen, corrección, ponderación). Los delegados de clase y representantes estudiantiles son los
 peores estudiantes, disfrutan de recursos y acceden al poder; futuros sindicalistas que obtienen
 títulos regalados por contactos.
+Para entrar, le hicieron la cama: el pliego se redacta con requisitos tailor-made para el candidato
+afín, y la convocatoria solo se publica en un tablón de corcho en el patio interno del rectorado,
+cubierto de papeles, para que nadie se entere de la vacante.
 
 ## Objetivos
 1. Entrar como profesor asociado y ascender a rector.
