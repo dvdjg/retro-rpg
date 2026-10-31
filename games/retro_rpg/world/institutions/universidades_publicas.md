@@ -13,11 +13,13 @@ clientele: ["Partidos", "Sindicatos públicos"]
 # Universidades Públicas Clientelares
 
 ## Descripción
-Universidades que dependen del poder político, con cátedras y plazas repartidas por cuotas de
-partido, mientras las privadas deben competir sin ayudas.
+Universidades que se dicen autónomas pero son redes clientelares del Estado. Calidad educativa
+paupérrima; títulos obligatorios para funcionarios y muchos empleos. Las empresas clientelares
+valoran los títulos solo por el paripé; las empresas privadas no clientelares saben que el título
+no capacita para ser un buen profesional.
 
 ## Discurso vs. realidad
-El "relato" educativo oculta la captura institucional y la falta de mérito.
+El "relato" educativo oculta la captura institucional, la falta de mérito y la titulitis clientelar.
 
 ## Impacto en city-builder
-Los campus afines generan lealtad y mano de obra adoctrinada para las redes clientelares.
+Los campus afines generan lealtad, mano de obra adoctrinada y una burbuja de titulados sin competencias.
