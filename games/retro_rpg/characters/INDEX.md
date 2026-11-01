@@ -2,6 +2,7 @@
 
 Archivos en esta carpeta y subcarpetas:
 
+- [[citizens/actuario_silenciado.md]]
 - [[citizens/agente_control_comunicaciones.md]]
 - [[citizens/autonomo_independiente.md]]
 - [[citizens/banquero_central.md]]
@@ -11,6 +12,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[citizens/ciudadano_controlado.md]]
 - [[citizens/ciudadano_vigilado.md]]
 - [[citizens/disidente_silenciado.md]]
+- [[citizens/dona_carmen_pensionista_cautiva.md]]
 - [[citizens/empresario_desocupacion.md]]
 - [[citizens/empresario_formacion_express.md]]
 - [[citizens/farandula_cultural.md]]
@@ -22,6 +24,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[citizens/funcionario_veterano_desmotivado.md]]
 - [[citizens/funcionarios_pensionistas.md]]
 - [[citizens/guardia_civil_desmotivado.md]]
+- [[citizens/iker_sara_pareja_inviabilidad.md]]
 - [[citizens/influencer_anticapitalista.md]]
 - [[citizens/ingeniero_silenciado.md]]
 - [[citizens/inmigrante_testimonio.md]]

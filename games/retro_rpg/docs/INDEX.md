@@ -24,6 +24,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[ideas_to_evaluate/psicologia_npcs_desde_dual.md]]
 - [[ideas_to_evaluate/rol_protagonista.md]]
 - [[ideas_to_evaluate/servicios_publicos_sobornos_rumania.md]]
+- [[ideas_to_evaluate/sistema_pensiones_hipertrofia_funcionariado.md]]
 - [[ideas_to_evaluate/superioridad_moral_socialismo.md]]
 - [[plots_consolidated/conclusion_constitucion_putrefacta.md]]
 - [[plots_unconsolidated/arco_principal_tres_actos.md]]
