@@ -13,6 +13,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[ideas_to_evaluate/economia_real_citybuilder.md]]
 - [[ideas_to_evaluate/elementos_faltantes_crpg_citybuilder.md]]
 - [[ideas_to_evaluate/empresas_desocupacion_privadas.md]]
+- [[ideas_to_evaluate/familia_gonzalez_hackeo_sistema.md]]
 - [[ideas_to_evaluate/fraccionamiento_contratos_menores.md]]
 - [[ideas_to_evaluate/guia_jugador_motivacion.md]]
 - [[ideas_to_evaluate/habitos_cotidianos_poca_inteligencia.md]]

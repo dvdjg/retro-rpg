@@ -59,6 +59,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[economy/fuga_capital_talento.md]]
 - [[economy/funcionario_joven_desmotivado.md]]
 - [[economy/grandes_corporaciones_apoyan_regulacion.md]]
+- [[economy/hackeo_sistema_ayudas_dependencia.md]]
 - [[economy/hipocresia_elites.md]]
 - [[economy/hipocresia_fiscal_coartada.md]]
 - [[economy/impuestos_clase_trabajadora.md]]

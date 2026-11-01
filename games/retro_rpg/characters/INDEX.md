@@ -4,6 +4,7 @@ Archivos en esta carpeta y subcarpetas:
 
 - [[citizens/actuario_silenciado.md]]
 - [[citizens/agente_control_comunicaciones.md]]
+- [[citizens/agustin_gonzalez.md]]
 - [[citizens/autonomo_independiente.md]]
 - [[citizens/banquero_central.md]]
 - [[citizens/begona_directora_inclusion_ciega.md]]
@@ -39,6 +40,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[citizens/lider_tercera_fuerza.md]]
 - [[citizens/lucia_universitaria.md]]
 - [[citizens/medico_sobornado.md]]
+- [[citizens/miguel_gonzalez.md]]
 - [[citizens/ocupa_armado_legalmente.md]]
 - [[citizens/opositor_alquiler.md]]
 - [[citizens/policia_corrupto.md]]
