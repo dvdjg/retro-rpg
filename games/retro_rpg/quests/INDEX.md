@@ -63,6 +63,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[side_quests/joven_aspirante_funcionario.md]]
 - [[side_quests/laboratorio_independientes.md]]
 - [[side_quests/liberados_sindicales_parasitismo.md]]
+- [[side_quests/maletin_sotano_4.md]]
 - [[side_quests/manifestaciones_teledirigidas.md]]
 - [[side_quests/mentalidad_suma_cero.md]]
 - [[side_quests/mentecatos_puestos_nucleares.md]]

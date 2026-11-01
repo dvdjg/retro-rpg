@@ -27,6 +27,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[ideas_to_evaluate/servicios_publicos_sobornos_rumania.md]]
 - [[ideas_to_evaluate/sistema_pensiones_hipertrofia_funcionariado.md]]
 - [[ideas_to_evaluate/superioridad_moral_socialismo.md]]
+- [[ideas_to_evaluate/vivienda_fondos_buitre_monopolio_suelo.md]]
 - [[plots_consolidated/conclusion_constitucion_putrefacta.md]]
 - [[plots_unconsolidated/arco_principal_tres_actos.md]]
 - [[plots_unconsolidated/historia_principal_densa.md]]
