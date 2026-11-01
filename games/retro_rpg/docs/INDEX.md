@@ -16,6 +16,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[ideas_to_evaluate/fraccionamiento_contratos_menores.md]]
 - [[ideas_to_evaluate/guia_jugador_motivacion.md]]
 - [[ideas_to_evaluate/habitos_cotidianos_poca_inteligencia.md]]
+- [[ideas_to_evaluate/inmigracion_masiva_estatismo.md]]
 - [[ideas_to_evaluate/leyes_ofuscadas_agujeros_arbitrarias.md]]
 - [[ideas_to_evaluate/mecanicas_godgame_citybuilder.md]]
 - [[ideas_to_evaluate/monopolio_moneda_control_bancario.md]]

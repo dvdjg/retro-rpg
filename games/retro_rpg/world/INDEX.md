@@ -14,6 +14,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[institutions/asesores_argumentario.md]]
 - [[institutions/banca_ingenieria.md]]
 - [[institutions/banco_central_control.md]]
+- [[institutions/centros_comunitarios_paralelos.md]]
 - [[institutions/consultora_tecnologica_clientelar.md]]
 - [[institutions/control_comunicaciones.md]]
 - [[institutions/equipo_opinion_sincronizada.md]]

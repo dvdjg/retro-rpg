@@ -38,6 +38,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[side_quests/discursos_odio_envidia.md]]
 - [[side_quests/discursos_odio_institucional.md]]
 - [[side_quests/discursos_populistas_medios.md]]
+- [[side_quests/distrito_dos_mundos.md]]
 - [[side_quests/doble_moral_residencial_educativa.md]]
 - [[side_quests/ejemplo_mision_el_paripe.md]]
 - [[side_quests/eliminacion_familia_nucleo_proteccion.md]]
