@@ -2,7 +2,12 @@
 
 Archivos en esta carpeta y subcarpetas:
 
+- [[citizens/agente_control_comunicaciones.md]]
+- [[citizens/banquero_central.md]]
 - [[citizens/bonifacio.md]]
+- [[citizens/ciudadano_controlado.md]]
+- [[citizens/ciudadano_vigilado.md]]
+- [[citizens/disidente_silenciado.md]]
 - [[citizens/farandula_cultural.md]]
 - [[citizens/funcionario_desdenoso.md]]
 - [[citizens/funcionario_veterano_desmotivado.md]]
@@ -11,8 +16,10 @@ Archivos en esta carpeta y subcarpetas:
 - [[citizens/inmigrante_testimonio.md]]
 - [[citizens/joven_aspirante_funcionario.md]]
 - [[citizens/joven_woke.md]]
+- [[citizens/liberal_abstencionista.md]]
 - [[citizens/lucia_universitaria.md]]
 - [[citizens/medico_sobornado.md]]
 - [[citizens/policia_corrupto.md]]
 - [[citizens/profesora_begona.md]]
+- [[citizens/tertuliano_populista.md]]
 - [[companions/ejemplo_npc_acompanante.md]]
