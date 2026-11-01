@@ -4,6 +4,7 @@ Archivos en esta carpeta y subcarpetas:
 
 - [[decisions/convencion_npcs.md]]
 - [[decisions/metodologia_personajes_desde_dual.md]]
+- [[ideas_to_evaluate/accidentes_incompetencia_institucional.md]]
 - [[ideas_to_evaluate/atrofia_iniciativa_civil.md]]
 - [[ideas_to_evaluate/bipartidismo_terceras_fuerzas.md]]
 - [[ideas_to_evaluate/cortejo_socialista_universitarios.md]]

@@ -19,6 +19,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[institutions/equipo_opinion_sincronizada.md]]
 - [[institutions/fontaneros_gobierno.md]]
 - [[institutions/fuerzas_seguridad.md]]
+- [[institutions/gestor_infraestructuras_clientelar.md]]
 - [[institutions/internet_controlado.md]]
 - [[institutions/medios_sincronizados.md]]
 - [[institutions/memoria_historica.md]]
