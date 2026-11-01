@@ -79,3 +79,97 @@ desarrollarlas más adelante.
 
 ## Roadmap de desarrollo
 Ver `docs/roadmaps/roadmap_principios_leyes.md` para el plan de integración en quests.
+
+## Ejemplos en español (guía para entender cada principio)
+
+### 1. Navaja de Occam
+Despiertas y el suelo de la cocina está mojado. Podrías pensar que alguien entró de noche, derramó
+agua y se fue sin dejar rastro. Pero también podría ser que el grifo goteaba o había una fuga en
+una tubería. Ambas explicaciones son posibles, pero la segunda requiere menos suposiciones. Esta
+principio no sirve para probar la verdad, sino para decidir qué explicación merece la pena
+comprobar primero.
+
+### 2. Ley de Hofstadter
+Decides pintar tu habitación; calculas 4 horas, pero por si acaso reservas 6. Empiezas a mover
+muebles, proteger el suelo, descubres que hay que tapar agujeros y aplicar una segunda capa. Al
+final, lo que parecía de 4 horas te ocupa todo el día. Tendemos a calcular pensando en la tarea
+principal, sin tener en cuenta los pequeños problemas que aparecen. Famosa en programación, donde
+un proyecto se retrasa por errores no previstos.
+
+### 3. Principio de Pareto (80/20)
+Una tienda descubre que el 20% de sus productos genera el 80% de las ventas. O una empresa recibe
+la mayoría de quejas por unos pocos problemas recurrentes; si los resuelve, reduce la mayoría de
+quejas sin cambiar toda la operación. Al estudiar para un examen, algunos temas son mucho más
+importantes que otros. Los porcentajes no son una regla matemática exacta; lo importante es
+entender que los resultados no se distribuyen de forma uniforme.
+
+### 4. Navaja de Hanlon
+Envías un mensaje importante a un amigo y pasan horas sin respuesta. Piensas que está enfadado o
+te ignora. Pero puede que se le haya acabado la batería, esté trabajando o haya leído el mensaje
+y olvidado responder. No atribuyas a la malicia lo que puede explicarse por un error, un descuido
+o falta de conocimiento. No significa que la gente nunca actúe con malas intenciones; significa no
+dar por sentado que alguien quiere dañarte sin pruebas.
+
+### 5. Ley de Parkinson
+Si tienes una presentación que podrías terminar en 2 horas, pero te dan dos semanas,
+probablemente pases días buscando imágenes innecesarias, cambiando colores y haciendo ajustes
+menores. Usas las dos semanas completas. El resultado es el mismo, pero con mucho más agotamiento
+innecesario. Con mucho tiempo, es más fácil procrastinar. Las reuniones duran una hora aunque los
+temas se resuelvan en 20 minutos. Tener más tiempo no garantiza mejor resultado.
+
+### 6. Principio de Peter
+Un vendedor excelente es promovido a jefe de equipo. Pero ser buen vendedor no significa ser buen
+jefe: antes hablaba con clientes y vendía; ahora debe organizar horarios, resolver conflictos y
+tomar decisiones. Las tareas son completamente distintas. Las personas ascienden hasta alcanzar un
+puesto en el que ya no destacan (su nivel de incompetencia). No significa que todas las
+promociones acaben así; el problema surge cuando se promueve a alguien solo porque hizo bien su
+trabajo anterior, sin comprobar si está preparado para el nuevo.
+
+### 7. Ley de Hick
+En una heladería con 2 sabores, eliges en segundos. En otra con 50 sabores, tardas mucho más en
+comparar. El tiempo de decisión aumenta con el número de opciones. En diseño, si una app muestra 20
+botones desordenados, es difícil encontrar lo que buscas; organizarlos en grupos facilita la
+decisión. Simplificar opciones ayuda a decidir.
+
+### 8. Ley de Goodhart
+Un director quiere mejorar la educación y se centra en las notas. Si exige que todos obtengan notas
+más altas, los profesores pueden simplificar los exámenes para cumplir la meta. Las notas suben,
+pero no significa que los alumnos aprendan más. En una empresa que mide productividad por número de
+llamadas, si solo se premia la cantidad, los empleados harán llamadas sin dar buen servicio. La
+medida se convierte en objetivo y deja de ser una buena medida.
+
+### 9. Efecto Dunning-Kruger
+Alguien que acaba de aprender a jugar al ajedrez y gana unas partidas puede creer que juega
+extraordinariamente bien, sin ser consciente de las estrategias que desconoce. En cambio, un
+jugador experimentado conoce más detalles y detecta sus propios errores con más facilidad. Las
+habilidades necesarias para hacer bien una tarea también ayudan a reconocer cuándo se hace mal.
+Cuanto más sabes, más consciente eres de lo que ignoras.
+
+### 10. La Cerca de Chesterton
+Un principio que dice que no se debe eliminar una regla, costumbre o parte de un sistema sin
+entender primero por qué existe. Ejemplo: una cerca en medio de un camino. Alguien la quita porque
+molesta, pero otro pregunta si sabes por qué se puso. Quizás está ahí para evitar que los
+animales salgan de una granja, marcar un límite o evitar una zona peligrosa. También aplica a
+reglas de empresas: una regla que obliga a revisar pedidos dos veces antes de enviarlos parece una
+pérdida de tiempo; un nuevo gerente la elimina, y al principio todo parece funcionar, pero luego
+llegan quejas porque algunos pedidos contienen productos equivocados. La regla que parecía
+innecesaria prevenía errores. No dice que se deban mantener todas las reglas antiguas, sino que
+primero hay que entender qué problema intentaban resolver.
+
+### 11. Ley de Brooks
+Añadir más personas a un proyecto de software que ya va con retraso puede hacer que termine aún
+más tarde. Se formuló en 1975. Ejemplo: una empresa desarrolla un videojuego y planea terminarlo
+en 3 meses, pero aparecen problemas y los directivos se dan cuenta de que no llegarán. Para
+solucionar el retraso, contratan a 10 programadores nuevos. En principio parece buena idea, pero
+los nuevos no pueden producir al máximo desde el primer día: deben conocer el proyecto, entender
+cómo funciona el programa, aprender a usar las herramientas y descubrir qué hace cada compañero.
+Para enseñarles, los programadores veteranos deben dejar de lado parte de su trabajo. Además, ahora
+hay más personas que deben ponerse de acuerdo: más reuniones, más preguntas y más posibilidades de
+que dos personas hagan cambios que no encajan bien. También hay tareas que no se pueden dividir
+fácilmente: si un programador debe terminar una parte antes de que otro pueda empezar la
+siguiente, contratar más gente no elimina esa espera. La ley no significa que contratar más
+personas sea siempre perjudicial; si las tareas se pueden compartir fácilmente y los nuevos ya
+conocen el proyecto, añadir gente puede ayudar. El problema aparece sobre todo cuando el proyecto
+está muy avanzado: las tareas dependen unas de otras y apenas queda tiempo para enseñar a los
+recién llegados. En esas situaciones, intentar recuperar el tiempo perdido contratando más
+personas puede causar exactamente lo contrario: que el proyecto se retrase aún más.
