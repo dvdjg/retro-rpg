@@ -96,6 +96,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[legal_system/control_internet.md]]
 - [[legal_system/control_mensajes_ciudadanos.md]]
 - [[legal_system/decreto_ley_urgencia.md]]
+- [[legal_system/desmotivacion_policia_guardia_civil.md]]
 - [[legal_system/ejemplo_constitucion_ambigua.md]]
 - [[legal_system/expedientes_abiertos.md]]
 - [[legal_system/farsa_igualdad_aforamientos.md]]

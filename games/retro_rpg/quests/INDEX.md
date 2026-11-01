@@ -33,6 +33,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[side_quests/coste_oportunidad.md]]
 - [[side_quests/delegados_clase_cantera_sindicalistas.md]]
 - [[side_quests/desden_funcionario.md]]
+- [[side_quests/desmotivacion_policia_guardia_civil.md]]
 - [[side_quests/discurso_bonifacio_aula.md]]
 - [[side_quests/discursos_odio_envidia.md]]
 - [[side_quests/discursos_odio_institucional.md]]
