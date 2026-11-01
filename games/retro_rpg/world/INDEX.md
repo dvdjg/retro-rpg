@@ -17,4 +17,5 @@ Archivos en esta carpeta y subcarpetas:
 - [[institutions/fontaneros_gobierno.md]]
 - [[institutions/fuerzas_seguridad.md]]
 - [[institutions/medios_sincronizados.md]]
+- [[institutions/ongs_clientelares.md]]
 - [[institutions/universidades_publicas.md]]
