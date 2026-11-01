@@ -5,6 +5,7 @@ Archivos en esta carpeta y subcarpetas:
 - [decisions/convencion_npcs.md](decisions/convencion_npcs.md)
 - [decisions/metodologia_personajes_desde_dual.md](decisions/metodologia_personajes_desde_dual.md)
 - [ideas_to_evaluate/guia_jugador_motivacion.md](ideas_to_evaluate/guia_jugador_motivacion.md)
+- [ideas_to_evaluate/habitos_cotidianos_poca_inteligencia.md](ideas_to_evaluate/habitos_cotidianos_poca_inteligencia.md)
 - [ideas_to_evaluate/mecanicas_godgame_citybuilder.md](ideas_to_evaluate/mecanicas_godgame_citybuilder.md)
 - [ideas_to_evaluate/principios_leyes_practicas.md](ideas_to_evaluate/principios_leyes_practicas.md)
 - [ideas_to_evaluate/psicologia_npcs_desde_dual.md](ideas_to_evaluate/psicologia_npcs_desde_dual.md)
