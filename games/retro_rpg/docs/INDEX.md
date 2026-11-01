@@ -4,6 +4,7 @@ Archivos en esta carpeta y subcarpetas:
 
 - [[decisions/convencion_npcs.md]]
 - [[decisions/metodologia_personajes_desde_dual.md]]
+- [[ideas_to_evaluate/cortejo_socialista_universitarios.md]]
 - [[ideas_to_evaluate/discurso_bonifacio_anti_socialista.md]]
 - [[ideas_to_evaluate/guia_jugador_motivacion.md]]
 - [[ideas_to_evaluate/habitos_cotidianos_poca_inteligencia.md]]
@@ -17,6 +18,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[plots_unconsolidated/trama_thriller_dan_brown.md]]
 - [[possibilities/enfoque_narrativo.md]]
 - [[roadmaps/roadmap_crpg_amiga.md]]
+- [[roadmaps/roadmap_desastres_socialismo.md]]
 - [[roadmaps/roadmap_narrativo_capitulos.md]]
 - [[roadmaps/roadmap_npcs.md]]
 - [[roadmaps/roadmap_principios_leyes.md]]

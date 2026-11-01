@@ -19,6 +19,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[side_quests/control_alquileres_escasez.md]]
 - [[side_quests/control_precios_desajustes.md]]
 - [[side_quests/corrupcion_moral.md]]
+- [[side_quests/cortejo_universitario.md]]
 - [[side_quests/coste_oportunidad.md]]
 - [[side_quests/delegados_clase_cantera_sindicalistas.md]]
 - [[side_quests/discurso_bonifacio_aula.md]]
