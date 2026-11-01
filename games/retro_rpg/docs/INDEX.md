@@ -7,6 +7,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[ideas_to_evaluate/accidentes_incompetencia_institucional.md]]
 - [[ideas_to_evaluate/atrofia_iniciativa_civil.md]]
 - [[ideas_to_evaluate/bipartidismo_terceras_fuerzas.md]]
+- [[ideas_to_evaluate/control_medios_masivos_vs_independientes.md]]
 - [[ideas_to_evaluate/cortejo_socialista_universitarios.md]]
 - [[ideas_to_evaluate/discurso_bonifacio_anti_socialista.md]]
 - [[ideas_to_evaluate/economia_real_citybuilder.md]]
