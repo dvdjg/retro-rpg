@@ -1,0 +1,25 @@
+﻿---
+id: "faction_periodistas_independientes"
+name: "Periodistas Independientes"
+type: "Medio"
+power_share: "Medio"
+public_budget_absorbed: "Medio"
+populist_discourse: "Discurso populista del sector"
+real_economic_interest: "Intereses económicos reales del sector"
+disturbance_capacity: "Media"
+clientele: []
+---
+
+# Periodistas Independientes
+
+## Descripción
+Periodistas que investigan y denuncian la corrupción. Sufren persecución y criminalización.
+
+## Discurso vs. realidad
+El discurso populista oculta los intereses económicos reales.
+
+## Capacidad de movilización
+Media.
+
+## Impacto en city-builder
+El sector tiene impacto en la simulación del city-builder.
