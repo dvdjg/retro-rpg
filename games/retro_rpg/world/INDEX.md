@@ -17,6 +17,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[institutions/fontaneros_gobierno.md]]
 - [[institutions/fuerzas_seguridad.md]]
 - [[institutions/medios_sincronizados.md]]
+- [[institutions/memoria_historica.md]]
 - [[institutions/ongs_clientelares.md]]
 - [[institutions/religion_islam_favorecida.md]]
 - [[institutions/universidades_publicas.md]]

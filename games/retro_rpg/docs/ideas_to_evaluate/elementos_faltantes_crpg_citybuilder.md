@@ -109,6 +109,10 @@ status: "to_evaluate"
 - Cancelación y censura digital.
 - Clase media asfixiada.
 - ONGs clientelares.
+- Reescritura de la historia y sustitución por el relato.
+- Ignorar el pasado histórico horrible del socialismo.
+- Desastre y maldad de la izquierda pre-guerra civil (España, Chile).
+- Anti-patriotismo (robo de orgullo y civilización).
 
 ### Pendientes de cubrir
 - **Climatismo / Agenda 2030**: el ecologismo como nueva religión estatal. Subvenciones a
