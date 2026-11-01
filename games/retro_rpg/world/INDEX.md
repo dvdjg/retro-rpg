@@ -18,4 +18,5 @@ Archivos en esta carpeta y subcarpetas:
 - [[institutions/fuerzas_seguridad.md]]
 - [[institutions/medios_sincronizados.md]]
 - [[institutions/ongs_clientelares.md]]
+- [[institutions/religion_islam_favorecida.md]]
 - [[institutions/universidades_publicas.md]]

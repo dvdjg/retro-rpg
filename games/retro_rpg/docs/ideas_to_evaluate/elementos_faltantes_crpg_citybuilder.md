@@ -102,6 +102,13 @@ status: "to_evaluate"
 - Woke (planes woke, departamentos ficticios, formación ideológica, insulto/deshumanización).
 - Socialismo del siglo XXI (cortejo a universitarios, superioridad moral, rebeldía como
   estética, idealización de sistemas).
+- Rechazo al conservadurismo (criminalización de la tradición).
+- Eliminación de la familia como núcleo de protección social.
+- Amiguismo del islam vs religiones judeo-cristianas.
+- Climatismo y Agenda 2030.
+- Cancelación y censura digital.
+- Clase media asfixiada.
+- ONGs clientelares.
 
 ### Pendientes de cubrir
 - **Climatismo / Agenda 2030**: el ecologismo como nueva religión estatal. Subvenciones a
