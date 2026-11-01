@@ -18,6 +18,7 @@ Archivos en esta carpeta y subcarpetas:
 - [side_quests/control_alquileres_escasez.md](side_quests/control_alquileres_escasez.md)
 - [side_quests/control_precios_desajustes.md](side_quests/control_precios_desajustes.md)
 - [side_quests/delegados_clase_cantera_sindicalistas.md](side_quests/delegados_clase_cantera_sindicalistas.md)
+- [side_quests/discurso_bonifacio_aula.md](side_quests/discurso_bonifacio_aula.md)
 - [side_quests/discursos_odio_envidia.md](side_quests/discursos_odio_envidia.md)
 - [side_quests/discursos_odio_institucional.md](side_quests/discursos_odio_institucional.md)
 - [side_quests/doble_moral_residencial_educativa.md](side_quests/doble_moral_residencial_educativa.md)
