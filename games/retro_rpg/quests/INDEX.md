@@ -63,6 +63,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[side_quests/minorias_identitarias_impuestos.md]]
 - [[side_quests/monopolio_moneda_control_bancario.md]]
 - [[side_quests/monopolio_profesor_adoctrinamiento.md]]
+- [[side_quests/negociado_cursillo.md]]
 - [[side_quests/nucleo_psicologico_necesidad_sentirse_buena.md]]
 - [[side_quests/oferta_demanda_estatismo.md]]
 - [[side_quests/persecucion_empresarial_cuotas.md]]

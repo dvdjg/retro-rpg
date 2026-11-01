@@ -22,6 +22,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[institutions/internet_controlado.md]]
 - [[institutions/medios_sincronizados.md]]
 - [[institutions/memoria_historica.md]]
+- [[institutions/negociado_contratacion.md]]
 - [[institutions/ongs_clientelares.md]]
 - [[institutions/religion_islam_favorecida.md]]
 - [[institutions/universidades_publicas.md]]

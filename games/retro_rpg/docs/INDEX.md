@@ -10,6 +10,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[ideas_to_evaluate/discurso_bonifacio_anti_socialista.md]]
 - [[ideas_to_evaluate/economia_real_citybuilder.md]]
 - [[ideas_to_evaluate/elementos_faltantes_crpg_citybuilder.md]]
+- [[ideas_to_evaluate/fraccionamiento_contratos_menores.md]]
 - [[ideas_to_evaluate/guia_jugador_motivacion.md]]
 - [[ideas_to_evaluate/habitos_cotidianos_poca_inteligencia.md]]
 - [[ideas_to_evaluate/mecanicas_godgame_citybuilder.md]]
