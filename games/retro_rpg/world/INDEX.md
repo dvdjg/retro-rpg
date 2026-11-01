@@ -21,6 +21,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[institutions/fuerzas_seguridad.md]]
 - [[institutions/gestor_infraestructuras_clientelar.md]]
 - [[institutions/internet_controlado.md]]
+- [[institutions/laberinto_legal.md]]
 - [[institutions/medios_sincronizados.md]]
 - [[institutions/memoria_historica.md]]
 - [[institutions/negociado_contratacion.md]]

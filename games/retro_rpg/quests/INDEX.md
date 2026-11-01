@@ -70,6 +70,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[side_quests/negociado_cursillo.md]]
 - [[side_quests/nucleo_psicologico_necesidad_sentirse_buena.md]]
 - [[side_quests/oferta_demanda_estatismo.md]]
+- [[side_quests/permiso_anexo_iv.md]]
 - [[side_quests/persecucion_empresarial_cuotas.md]]
 - [[side_quests/pista_mentor_fortuna.md]]
 - [[side_quests/planes_woke_empresariales.md]]

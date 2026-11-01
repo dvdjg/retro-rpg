@@ -3,8 +3,10 @@
 Archivos en esta carpeta y subcarpetas:
 
 - [[citizens/agente_control_comunicaciones.md]]
+- [[citizens/autonomo_independiente.md]]
 - [[citizens/banquero_central.md]]
 - [[citizens/bonifacio.md]]
+- [[citizens/burocrata_hastido.md]]
 - [[citizens/cientifico_independiente.md]]
 - [[citizens/ciudadano_controlado.md]]
 - [[citizens/ciudadano_vigilado.md]]
