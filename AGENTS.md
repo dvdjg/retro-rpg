@@ -27,7 +27,7 @@ games/<slug>/
 │   ├── decisions/        # Decisiones de diseño tomadas
 │   └── backlog/          # Tareas pendientes
 ├── mechanics/            # Mecánicas (city_builder, economy, legal_system)
-├── world/                # Lore global (factions, institutions, history_timeline)
+├── world/                # Lore global (factions, institutions, history_timeline, characters)
 ├── characters/           # NPCs (companions, elites, citizens)
 ├── quests/               # Misiones (main_story, side_quests, dynamic_events)
 └── templates/            # Plantillas YAML/Markdown
@@ -41,8 +41,11 @@ games/<slug>/
 - Las historias de personajes, facciones y grupos deben **encajar entre sí** (consistencia global).
 - La memoria es **subjetiva**: la versión del NPC no tiene por qué coincidir con la realidad ni con
   la de otros personajes. Usar `subjective_memory` en `template_npc.md`.
+- La **verdad objetiva** vive en `world/history_timeline/timeline_eventos.md`.
 - Personalidades variadas: incluir las que propician sistemas socialistas "woke" (identitarios,
   clientelares) y también gente trabajadora y colaboradora.
+- Los documentos deben enlazarse estilo Obsidian: usar `[[...]]` (wiki links) para referencias
+  entre documentos, para que el vault sea navegable.
 
 ## Dónde apuntar cosas durante el desarrollo
 
@@ -58,10 +61,74 @@ Si una trama pasa de borrador a consolidada, mover el archivo y actualizar refer
 
 ## Plantillas
 
-- `templates/template_npc.md` — NPCs (memoria subjetiva, relaciones, impacto city-builder).
+- `templates/template_npc.md` — NPCs (memoria subjetiva + verdad objetiva, relaciones, impacto city-builder).
 - `templates/template_quest.md` — Misiones (relato político vs realidad, consecuencias).
 - `templates/template_faction.md` — Facciones (poder, presupuesto, discurso vs interés real).
 - `templates/template_mechanic.md` — Mecánicas (reglas, modifiers, inmunidad legal).
+
+## Convención de NPCs (obligatoria)
+
+Seguir `docs/decisions/convencion_npcs.md` y `templates/template_npc.md`. Campos YAML obligatorios:
+`id`, `name`, `faction`, `social_class`, `ideology`, `public_role`, `hidden_agenda`,
+`subjective_memory`, `relationships`, `city_builder_impact`. Campos recomendados: `objective_history`,
+`evolution`, `work_activities`, `ideas`, `key_event`, `secret`, `relations_map`,
+`trauma_fundacional`, `autoengaño`, `relaciones_familiares_cruzadas`, `anhelo_futuro`.
+
+Secciones Markdown obligatorias: descripción pública, descripción privada/verdad oculta, historia
+subjetiva, relaciones, impacto en simulación, verdad objetiva (línea temporal).
+
+Reglas:
+1. Toda nueva historia no debe contradecir tramas consolidadas salvo que se documente el cambio
+   en `docs/decisions/`.
+2. La memoria subjetiva no tiene por qué coincidir con la realidad ni con la de otros NPCs.
+3. La verdad objetiva vive en `world/history_timeline/timeline_eventos.md`.
+4. Cada NPC tiene un `id` único y estable.
+5. Las relaciones deben ser bidireccionales cuando sea relevante.
+6. Las facciones deben estar documentadas en `world/factions/` o `world/institutions/`.
+7. Preferir editar archivos existentes a crear nuevos; no crear documentación extra no pedida.
+8. Incluir vínculo especial (evento clave) y al menos un secreto con consecuencias mecánicas.
+9. Actualizar el Mapa de Relaciones Dinámicas (`world/characters/relaciones_dinamicas.md`) por capítulo.
+
+## Metodología de personajes (extraída de Dual)
+
+Ver `docs/decisions/metodologia_personajes_desde_dual.md`. Perfil por capas (datos básicos,
+personalidad, relaciones, ocupación, trasfondo/secreto, arco), mapa de relaciones dinámicas central,
+vínculos especiales con eventos clave, secretos con consecuencias mecánicas, evolución por
+capítulo, interacción con el mundo.
+
+## Psicología de NPCs (trauma, autoengaño, familia, anhelo)
+
+Ver `docs/ideas_to_evaluate/psicologia_npcs_desde_dual.md`. Trauma fundacional con el aparato
+del Estado, discrepancia memoria subjetiva vs hechos (autoengaño, rencor disfrazado de idealismo),
+redes familiares cruzadas por la grieta política (choque generacional, dependencia cruzada),
+anhelos de futuro (escape a autonomía real o ascenso en la cúpula/la castuza).
+
+## Principios y leyes prácticas (referencia para tramas)
+
+Ver `docs/ideas_to_evaluate/principios_leyes_practicas.md` y `docs/roadmaps/roadmap_principios_leyes.md`.
+11 principios: Navaja de Occam, Ley de Hofstadter, Navaja de Hanlon, Ley de Parkinson, Principio
+de Peter, Ley de Hick, Ley de Goodhart, Efecto Dunning-Kruger, Principio de Pareto, Cerca de
+Chesterton, Ley de Brooks. Cada uno debe estar presente en al menos una misión o quest.
+
+## Hábitos cotidianos (referencia para psicología y diálogos)
+
+Ver `docs/ideas_to_evaluate/habitos_cotidianos_poca_inteligencia.md`. 8 hábitos (nunca decir
+no sé, primera respuesta, compartir sin leer, sesgo de confirmación, no escuchar, multitarea,
+gratificación instantánea, no revisar errores) y hábitos que NO son señal (groserías, hablar
+solo, desorden, procrastinar). Aplicación: diseño de NPCs, mecánicas de pensamiento crítico.
+
+## Discurso de Bonifacio (ideas para tramas)
+
+Ver `docs/ideas_to_evaluate/discurso_bonifacio_anti_socialista.md`. 5 capas del iceberg
+socialista: corrupción, falta de gestión, ideas fallidas, daño a instituciones, corrupción moral.
+Cada concepto debe tener sus propias tramas y misiones independientes.
+
+## Economía y constitución
+
+- Conceptos económicos: curva de oferta/demanda, control de precios, finanzas (personal/
+  empresarial/pública), empresario real vs mito inhumano. Ver `mechanics/economy/`.
+- Constitución putrefacta vs carta magna auténtica. Ver `mechanics/legal_system/constitucion_maliciosa.md`,
+  `mechanics/legal_system/carta_magna_autentica.md`, `docs/plots_consolidated/conclusion_constitucion_putrefacta.md`.
 
 ## Reglas para la IA
 
@@ -75,7 +142,10 @@ Si una trama pasa de borrador a consolidada, mover el archivo y actualizar refer
    basta para movimiento.
 7. No commitear cambios salvo que el usuario lo pida explícitamente.
 8. Mantener respuestas concisas; no añadir comentarios al código salvo que se pidan.
-9. Al crear NPCs, seguir `docs/decisions/convencion_npcs.md` y `templates/template_npc.md`: memoria subjetiva + verdad objetiva en `world/history_timeline/timeline_eventos.md`.
+9. Al crear NPCs, seguir `docs/decisions/convencion_npcs.md` y `templates/template_npc.md`.
+10. Los documentos deben enlazarse estilo Obsidian (`[[...]]`) para navegabilidad.
+11. Usar `world/characters/relaciones_dinamicas.md` como mapa central de relaciones.
+12. Mantener el índice actualizado: `games/retro_rpg/INDEX.md` y `dev/INDEX.md`.
 
 ## Herramientas
 
