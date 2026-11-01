@@ -10,6 +10,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[factions/sindicatos_privados.md]]
 - [[factions/sindicatos_publicos.md]]
 - [[history_timeline/timeline_eventos.md]]
+- [[institutions/agencia_tributaria_partido.md]]
 - [[institutions/asesores_argumentario.md]]
 - [[institutions/banca_ingenieria.md]]
 - [[institutions/banco_central_control.md]]

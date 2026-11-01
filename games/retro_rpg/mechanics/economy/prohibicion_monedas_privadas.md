@@ -25,6 +25,11 @@ perseguidas.
 - Las monedas privadas son prohibidas o perseguidas.
 - El Estado necesita el monopolio para poder robar mediante la inflación.
 - La competencia monetaria desaparece.
+- El trueque y las reservas de valor alternativas (vales comerciales locales, metales preciosos,
+  activos descentralizados) son catalogados automáticamente como "delito de blanqueo o subversión
+  contra la soberanía monetaria", justificando registros policiales y confiscaciones arbitrarias.
+- La razón es puramente parasitaria: si el ciudadano puede intercambiar valor libremente sin
+  pasar por el aro estatal, el Estado pierde su capacidad de extorsión y su "mordida" fiscal.
 
 ## Interacciones
 - **City-builder**: los distritos con mayor dependencia monetaria tienen mayor lealtad.

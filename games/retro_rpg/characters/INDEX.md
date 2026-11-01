@@ -9,6 +9,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[citizens/ciudadano_vigilado.md]]
 - [[citizens/disidente_silenciado.md]]
 - [[citizens/farandula_cultural.md]]
+- [[citizens/funcionario_agencia_tributaria.md]]
 - [[citizens/funcionario_desdenoso.md]]
 - [[citizens/funcionario_veterano_desmotivado.md]]
 - [[citizens/funcionarios_pensionistas.md]]

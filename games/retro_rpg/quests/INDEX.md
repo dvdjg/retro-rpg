@@ -80,4 +80,5 @@ Archivos en esta carpeta y subcarpetas:
 - [[side_quests/subtramas_secundarias.md]]
 - [[side_quests/superioridad_moral_intenciones_resultados.md]]
 - [[side_quests/trabajador_asfixiado.md]]
+- [[side_quests/trazabilidad_financiera_control_monetario.md]]
 - [[side_quests/universidades_publicas_clientelares.md]]

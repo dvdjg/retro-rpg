@@ -43,6 +43,54 @@ status: "to_evaluate"
 - **Socialismo total**: el control monetario es el paso final hacia el control total de la
   economía y la sociedad.
 
+### 6. El dinero deja de ser un bien de intercambio y se convierte en un "permiso de consumo"
+- Al limitar los pagos en metálico, prohibir las monedas privadas y restringir las retiradas en
+  cajeros, el dinero físico (el último reducto de libertad y anonimato del ciudadano) desaparece.
+- Tu dinero en el banco ya no es tuyo; es un saldo digital condicionado a la aprobación del
+  Estado. Si el algoritmo del ministerio o un funcionario corrupto decide que tus opiniones
+  políticas, tus compras o tus asociaciones son "peligrosas", pueden bloquear tus medios de pago
+  en cuestión de segundos, dejándote incapacitado para comprar alimentos, pagar el alquiler o
+  moverte por el mapa.
+
+### 7. La inflación como el impuesto invisible (el robo sistémico)
+- Al monopolizar la emisión de moneda y utilizar los bancos centrales como herramientas para
+  monetizar la deuda pública desbocada, el Estado confisca silenciosamente el poder adquisitivo
+  de la gente trabajadora.
+- Mientras el autónomo o el trabajador se esfuerza 14 horas diarias para ganar su salario, el
+  valor de sus ahorros se desvanece por obra de la expansión monetaria artificial. Ese dinero
+  robado mediante la inflación va a parar directamente a sostener la macro-estructura clientelar:
+  subvenciones a los sindicatos verticales, sueldos de los "liberados" y contratos millonarios a
+  las grandes corporaciones amigas del régimen.
+
+### 8. La persecución de la moneda privada y el trueque
+- La razón por la que el poder persigue cualquier intento de moneda privada (vales comerciales
+  locales, metales preciosos, activos descentralizados) es puramente parasitaria: si el ciudadano
+  puede intercambiar valor libremente sin pasar por el aro estatal, el Estado pierde su capacidad
+  de extorsión y su "mordida" fiscal.
+- Todo lo que escape al control del banco central es catalogado automáticamente como "delito de
+  blanqueo o subversión contra la soberanía monetaria", justificando registros policiales y
+  confiscaciones arbitrarias.
+
+### 9. Mecánicas de juego (causa y efecto visual)
+- **Barra de control financiero y trazabilidad**: las transacciones digitales están vigiladas por
+  la Agencia Tributaria del partido. Si el jugador intenta financiar a la resistencia, comprar
+  suministros en el mercado negro o pagar a un juez independiente, la trazabilidad digital del
+  dinero oficial delata sus movimientos inmediatamente.
+- **Dualidad: dinero oficial vs dinero B (efectivo oculto)**: para sobrevivir en el bajo mundo
+  del juego (sobornar a inspectores corruptos, comprar componentes para pequeños talleres o
+  ayudar a disidentes), el avatar debe buscar activamente dinero en efectivo oculto o reservas de
+  valor alternativas que el Estado no pueda inflar ni confiscar digitalmente. El efectivo se
+  convierte así en el recurso más valioso y peligroso del juego.
+- **Bloqueo de cuentas como arma política (corralito selectivo)**: cuando te enfrentas a la
+  oposición o intentas recortar privilegios a la casta, el sistema bancario controlado por el
+  gobierno te aplica un corralito selectivo: tus cuentas oficiales serán congeladas bajo pretextos
+  burocráticos, obligándote a operar en la clandestinidad económica que tú mismo, como
+  gobernante, ayudaste a blindar.
+
+### 10. La verdad económica definitiva
+El control absoluto del dinero es la herramienta definitiva para destruir la soberanía individual
+y convertir a toda la sociedad en rehenes de la administración.
+
 ## Propuestas de implementación en misiones y personajes
 
 ### Mecánica: "Monopolio de la emisión de moneda"
