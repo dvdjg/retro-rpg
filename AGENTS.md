@@ -82,3 +82,7 @@ Si una trama pasa de borrador a consolidada, mover el archivo y actualizar refer
 - Obsidian como editor visual del vault (abrir `games/<slug>`).
 - Plugins: Obsidian Git, Dataview, Excalidraw/Canvas, Text Generator/Smart Connections.
 - Git para control de versiones.
+
+## Índice de documentación
+
+Ver `games/retro_rpg/INDEX.md` para el índice completo del juego y `dev/INDEX.md` para desarrollo.

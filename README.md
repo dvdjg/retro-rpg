@@ -49,3 +49,7 @@ consultar metadatos (facción, ideología, memoria subjetiva, impacto city-build
   otros personajes. Usa `subjective_memory` en las plantillas.
 - Las misiones distinguen "Relato Político" vs "Realidad de la Misión".
 - Las facciones declaran cuota de poder, presupuesto absorbido y capacidad de disturbios/paros.
+
+## Índice de documentación
+
+Ver `games/retro_rpg/INDEX.md` para el índice completo del juego y `dev/INDEX.md` para desarrollo.

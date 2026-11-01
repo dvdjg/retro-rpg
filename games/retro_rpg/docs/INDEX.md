@@ -1,0 +1,20 @@
+﻿# Índice — docs
+
+Archivos en esta carpeta y subcarpetas:
+
+- [decisions/convencion_npcs.md](decisions/convencion_npcs.md)
+- [decisions/metodologia_personajes_desde_dual.md](decisions/metodologia_personajes_desde_dual.md)
+- [ideas_to_evaluate/guia_jugador_motivacion.md](ideas_to_evaluate/guia_jugador_motivacion.md)
+- [ideas_to_evaluate/mecanicas_godgame_citybuilder.md](ideas_to_evaluate/mecanicas_godgame_citybuilder.md)
+- [ideas_to_evaluate/principios_leyes_practicas.md](ideas_to_evaluate/principios_leyes_practicas.md)
+- [ideas_to_evaluate/psicologia_npcs_desde_dual.md](ideas_to_evaluate/psicologia_npcs_desde_dual.md)
+- [ideas_to_evaluate/rol_protagonista.md](ideas_to_evaluate/rol_protagonista.md)
+- [plots_consolidated/conclusion_constitucion_putrefacta.md](plots_consolidated/conclusion_constitucion_putrefacta.md)
+- [plots_unconsolidated/arco_principal_tres_actos.md](plots_unconsolidated/arco_principal_tres_actos.md)
+- [plots_unconsolidated/historia_principal_densa.md](plots_unconsolidated/historia_principal_densa.md)
+- [plots_unconsolidated/trama_thriller_dan_brown.md](plots_unconsolidated/trama_thriller_dan_brown.md)
+- [possibilities/enfoque_narrativo.md](possibilities/enfoque_narrativo.md)
+- [roadmaps/roadmap_crpg_amiga.md](roadmaps/roadmap_crpg_amiga.md)
+- [roadmaps/roadmap_narrativo_capitulos.md](roadmaps/roadmap_narrativo_capitulos.md)
+- [roadmaps/roadmap_npcs.md](roadmaps/roadmap_npcs.md)
+- [roadmaps/roadmap_principios_leyes.md](roadmaps/roadmap_principios_leyes.md)
