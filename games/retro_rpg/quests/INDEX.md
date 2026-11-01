@@ -55,6 +55,7 @@ Archivos en esta carpeta y subcarpetas:
 - [[side_quests/instancia_extraviada.md]]
 - [[side_quests/izquierda_pre_guerra_civil.md]]
 - [[side_quests/joven_aspirante_funcionario.md]]
+- [[side_quests/laboratorio_independientes.md]]
 - [[side_quests/liberados_sindicales_parasitismo.md]]
 - [[side_quests/manifestaciones_teledirigidas.md]]
 - [[side_quests/mentalidad_suma_cero.md]]
