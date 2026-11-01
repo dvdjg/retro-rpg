@@ -4,6 +4,7 @@ Archivos en esta carpeta y subcarpetas:
 
 - [[decisions/convencion_npcs.md]]
 - [[decisions/metodologia_personajes_desde_dual.md]]
+- [[ideas_to_evaluate/bipartidismo_terceras_fuerzas.md]]
 - [[ideas_to_evaluate/cortejo_socialista_universitarios.md]]
 - [[ideas_to_evaluate/discurso_bonifacio_anti_socialista.md]]
 - [[ideas_to_evaluate/economia_real_citybuilder.md]]
