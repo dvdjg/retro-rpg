@@ -1,6 +1,6 @@
 ---
 id: faction_asociacion_promotores_constructores
-name: AsociaciÃ³n de Promotores y Constructores
+name: Asociación de Promotores y Constructores
 type: Institución
 power_share: Muy alto
 public_budget_absorbed: Máximo

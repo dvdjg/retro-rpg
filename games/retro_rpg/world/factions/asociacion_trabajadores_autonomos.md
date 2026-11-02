@@ -1,6 +1,6 @@
 ---
 id: faction_asociacion_trabajadores_autonomos
-name: AsociaciÃ³n de Trabajadores AutÃ³nomos
+name: Asociación de Trabajadores Autónomos
 type: Sindicato
 power_share: Bajo
 public_budget_absorbed: Ninguno

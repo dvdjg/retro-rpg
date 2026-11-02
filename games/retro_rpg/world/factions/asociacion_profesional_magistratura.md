@@ -1,6 +1,6 @@
 ---
 id: faction_asociacion_profesional_magistratura
-name: AsociaciÃ³n Profesional de la Magistratura
+name: Asociación Profesional de la Magistratura
 type: Institución
 power_share: Muy alto
 public_budget_absorbed: Elevado

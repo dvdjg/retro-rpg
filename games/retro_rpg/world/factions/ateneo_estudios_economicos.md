@@ -1,6 +1,6 @@
 ---
 id: faction_ateneo_estudios_economicos
-name: Ateneo de Estudios EconÃ³micos
+name: Ateneo de Estudios Económicos
 type: Colectivo
 power_share: Bajo
 public_budget_absorbed: Ninguno

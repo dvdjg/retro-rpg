@@ -1,6 +1,6 @@
 ---
 id: faction_union_general_trabajadores
-name: UniÃ³n General de Trabajadores
+name: Unión General de Trabajadores
 type: Sindicato
 power_share: Alto
 public_budget_absorbed: Elevado

@@ -1,6 +1,6 @@
 ---
 id: faction_sindicato_ensenanza
-name: Sindicato de EnseÃ±anza
+name: Sindicato de Enseñanza
 type: Institución
 power_share: Alto
 public_budget_absorbed: Elevado

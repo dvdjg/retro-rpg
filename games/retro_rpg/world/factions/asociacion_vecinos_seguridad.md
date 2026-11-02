@@ -1,6 +1,6 @@
 ---
 id: faction_asociacion_vecinos_seguridad
-name: AsociaciÃ³n de Vecinos por la Seguridad
+name: Asociación de Vecinos por la Seguridad
 type: Milicia
 power_share: Bajo
 public_budget_absorbed: Ninguno

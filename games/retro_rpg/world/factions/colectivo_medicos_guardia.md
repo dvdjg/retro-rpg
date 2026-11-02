@@ -1,6 +1,6 @@
 ---
 id: faction_colectivo_medicos_guardia
-name: Colectivo de MÃ©dicos de Guardia
+name: Colectivo de Médicos de Guardia
 type: Colectivo
 power_share: Bajo
 public_budget_absorbed: Ninguno
